@@ -1,0 +1,3 @@
+# Each line: a pattern, then its owners
+*.md @cafe/writers
+/docs/ @cafe/docs-team
